@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1682892271297,
+  "timestamp": 1682892417921,
   "index": "https://TeoLpz.github.io/card_angular/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://TeoLpz.github.io/card_angular/favicon.ico",
         "https://TeoLpz.github.io/card_angular/index.html",
-        "https://TeoLpz.github.io/card_angular/main.081b6530d920de06.js",
+        "https://TeoLpz.github.io/card_angular/main.c3c04dce2462b1fd.js",
         "https://TeoLpz.github.io/card_angular/manifest.webmanifest",
         "https://TeoLpz.github.io/card_angular/polyfills.794d7387aea30963.js",
         "https://TeoLpz.github.io/card_angular/runtime.89bfad0fe920d2c9.js",
@@ -52,8 +52,8 @@
     "https://TeoLpz.github.io/card_angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://TeoLpz.github.io/card_angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://TeoLpz.github.io/card_angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://TeoLpz.github.io/card_angular/index.html": "8fa5a1ca8c8c1d275872d9bcf8eb51028fd81ec7",
-    "https://TeoLpz.github.io/card_angular/main.081b6530d920de06.js": "e0636044ed50b67a98c31e2f6362e0e4287bfad3",
+    "https://TeoLpz.github.io/card_angular/index.html": "a3a001abd2bc186ac7f34a822e794d6c62ebf8a9",
+    "https://TeoLpz.github.io/card_angular/main.c3c04dce2462b1fd.js": "a2dd430a84053a3a9ee3845f54993d8958725c45",
     "https://TeoLpz.github.io/card_angular/manifest.webmanifest": "63b272452f7323ec09705c84044faa394ce82a79",
     "https://TeoLpz.github.io/card_angular/polyfills.794d7387aea30963.js": "0b5d2ac7f91a9b9cac378b1b551f7bce1d1cfa4d",
     "https://TeoLpz.github.io/card_angular/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",
