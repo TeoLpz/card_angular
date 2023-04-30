@@ -1,0 +1,157 @@
+
+body{
+  background: transparent;
+  
+}
+
+.card {
+  position: relative;
+  height: 540px;
+  width: 100%;
+  background-color: #ffffff;
+  margin: 80px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  bottom: 30px;
+  top: 10px;
+}
+
+
+.header {
+  position: absolute;
+  height: 230px;
+  width: 95%;
+  margin:0 auto;
+  left: 0;
+  right: 0;
+  top: -30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+.logo {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+.fondo {
+  height: 100%;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.header h3 {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(255, 255, 255);
+  -webkit-text-stroke: .7px #000000;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  width: 100%;
+  
+}
+
+.header p {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  text-align: center;
+  margin-top: auto;
+  transform: translate(-50%, -50%);
+  font-family: sans-serif;
+  color: rgb(236, 233, 233);
+  -webkit-text-stroke: .8px #000000;
+  font-size: 22px;
+  width: 100%;
+}
+
+.body {
+  position: absolute;
+  height: 126px;
+  left: 5px;
+  right: 5px;
+  top: 52%;
+  border-radius: 12px;
+}
+
+.body ul{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  
+ 
+}
+.body li{
+  list-style: none;
+  text-align: center;
+  font-size: 20px;
+  
+}
+
+
+.footer {
+  position: absolute;
+  height: 70px;
+  bottom: -15px;
+  left: 0;
+  right: 0;
+  border-radius: 12px;
+  width:95%;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-image: linear-gradient(to right, #484848, #272727);
+}
+
+.footer ul {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;  
+}
+
+.footer ul li {
+  display: inline-block;
+  margin-left: 5%;
+  width: 15%;
+}
+
+.footer ul li i {
+  font-size: 30px;
+  color: #ffffff;
+  transition: all .3s ease-in;
+}
+
+.footer ul li:hover i {
+  transform: scale(0.9);
+  color: #0fc3d0;
+  cursor: pointer;
+}
+
+.contenedor {
+  width: 90%;
+  max-width: 1000px;
+  margin:0 auto;
+  overflow: hidden;
+  max-height: 650px;
+}
+
+@media screen and (max-width: 300px){
+  .contenedor {
+    width: 100%;
+  }
+}

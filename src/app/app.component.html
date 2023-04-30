@@ -1,0 +1,6 @@
+<app-navbar></app-navbar>
+<router-outlet></router-outlet>
+
+<button *ngIf="showInstallPrompt" (click)="installPWA()" class="install-button">
+    Descargar
+   </button>

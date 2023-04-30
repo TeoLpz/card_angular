@@ -1,0 +1,44 @@
+.contenido{ margin-top: 160px; width: 100%;}
+
+.contenido_tittle { 
+  font-size: 55px; 
+  font-weight: bold; 
+  color: rgb(255, 255, 255); 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow Bold';
+  -webkit-text-stroke: 3px rgb(0, 0, 0);
+}
+
+.contenido_instruction{
+  font-size: 25px; 
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #131313;
+}
+.contenido_first{
+  font-size: 18px; 
+  font-weight: bold;
+  margin-top: 35px;
+}
+
+.contenido_two{
+  font-size: 18px; 
+  font-weight: bold;
+  
+}
+
+ .marca{
+  margin-top: 100px;
+ }
+
+
+.carta{
+  height: 400px;
+  width: 100%;
+  background-color: #a08916;
+  
+}
+.img-back{
+  height: auto;
+  width: 100%;
+}
+
